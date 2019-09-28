@@ -31,6 +31,8 @@ h2 {
 th, td {
   padding: 15px;
   border: 1px solid black;
+  font: 18px Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 table {
