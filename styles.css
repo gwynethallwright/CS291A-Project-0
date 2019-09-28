@@ -24,4 +24,6 @@ h1 {
   font: 35px Arial, Helvetica, sans-serif;
 }
 
-
+table, th, td {
+  border: 1px solid black;
+}
