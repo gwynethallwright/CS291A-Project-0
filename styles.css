@@ -35,6 +35,10 @@ th, td {
   text-align: center;
 }
 
+th {
+  font-weight: 1500;
+}
+
 table {
   border: 1px solid black;
   padding: 0;
