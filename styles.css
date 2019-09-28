@@ -33,6 +33,11 @@ li {
   padding: 15px
 }
 
+ul {
+  display:table;
+  margin:0 auto;
+}
+
 th, td {
   padding: 15px;
   border: 1px solid black;
