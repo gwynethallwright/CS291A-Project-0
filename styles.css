@@ -28,6 +28,10 @@ h2 {
   font: 25px Arial, Helvetica, sans-serif;
 }
 
+u1 {
+  padding: 15px
+}
+
 th, td {
   padding: 15px;
   border: 1px solid black;
