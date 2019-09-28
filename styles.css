@@ -28,3 +28,7 @@ table, th, td {
   padding: 15px;
 }
 
+table {
+  margin: 0 auto;
+}
+
