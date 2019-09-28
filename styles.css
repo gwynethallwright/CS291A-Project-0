@@ -16,7 +16,6 @@ html, body {
 .content {
   text-align: center;
   display: block;
-  margin: 50px auto;
   font: 18px Arial, Helvetica, sans-serif;
 }
 
@@ -29,6 +28,7 @@ h1 {
 
 th, td {
   padding: 15px;
+  border: 1px solid black;
 }
 
 table {
