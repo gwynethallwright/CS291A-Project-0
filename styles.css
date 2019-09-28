@@ -28,7 +28,7 @@ h2 {
   font: 25px Arial, Helvetica, sans-serif;
 }
 
-ul {
+ul, li {
   font: 18px Arial, Helvetica, sans-serif;
   padding: 15px
 }
