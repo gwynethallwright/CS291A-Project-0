@@ -17,8 +17,6 @@ p {
 }
 
 h1 {
-  display: block;
-  width: 800px;
-  margin: 50px auto;
-  font: 18px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  text-align:center;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
