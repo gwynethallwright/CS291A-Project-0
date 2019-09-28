@@ -9,7 +9,7 @@
   margin: 50px auto;
 }
 
-p {
+.content {
   text-align: center;
   display: block;
   width: 800px;
@@ -23,3 +23,4 @@ h1 {
   margin: 50px auto;
   font: 35px Arial, Helvetica, sans-serif;
 }
+
