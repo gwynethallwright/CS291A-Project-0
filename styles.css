@@ -13,5 +13,12 @@ p {
   display: block;
   width: 800px;
   margin: 50px auto;
-  font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 18px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+
+h1 {
+  display: block;
+  width: 800px;
+  margin: 50px auto;
+  font: 18px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
