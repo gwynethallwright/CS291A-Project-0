@@ -26,6 +26,13 @@ h1 {
   font: 35px Arial, Helvetica, sans-serif;
 }
 
+h2 {
+  text-align: center;
+  font-weight: 1500;
+  margin: 50px auto;
+  font: 25px Arial, Helvetica, sans-serif;
+}
+
 th, td {
   padding: 15px;
   border: 1px solid black;
