@@ -2,13 +2,14 @@ html, body {
   width: 100%;
 }
 
-#octocat {
+#baby-gwyneth {
   display: block;
-  width:384px;
   margin: 50px auto;
+  max-width: 30%;
+  max-height: 30%;
 }
 
-.content {
+p {
   text-align: center;
   display: block;
   font: 18px Arial, Helvetica, sans-serif;
@@ -28,18 +29,18 @@ h2 {
   font: 25px Arial, Helvetica, sans-serif;
 }
 
-li {
-  font: 18px Arial, Helvetica, sans-serif;
-  padding: 15px
-}
-
 ul {
-  display: table;
+  display: block;
   margin: 0 auto;
 }
 
+li {
+  font: 18px Arial, Helvetica, sans-serif;
+  padding: 5px
+}
+
 th, td {
-  padding: 15px;
+  padding: 5px;
   border: 1px solid black;
   font: 18px Arial, Helvetica, sans-serif;
   text-align: center;
