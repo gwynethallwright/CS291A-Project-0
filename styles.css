@@ -53,9 +53,8 @@ th {
 
 table {
   border: 1px solid black;
-  margin: 0 auto;
-  margin-top: 10px;
-  margin-bottom: 50px;
+  margin-top: 20px auto;
+  margin-bottom: 50px auto;
 }
 
 
