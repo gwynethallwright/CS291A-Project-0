@@ -9,7 +9,7 @@ html, body {
   max-height: 30%;
 }
 
-p {
+p, a {
   text-align: center;
   display: block;
   font: 18px Arial, Helvetica, sans-serif;
@@ -36,11 +36,11 @@ ul {
 
 li {
   font: 18px Arial, Helvetica, sans-serif;
-  margin: 5px
+  margin: 10px
 }
 
 th, td {
-  margin: 5px;
+  margin: 10px;
   border: 1px solid black;
   font: 18px Arial, Helvetica, sans-serif;
   text-align: center;
@@ -54,4 +54,5 @@ table {
   border: 1px solid black;
   margin: 0 auto;
 }
+
 
