@@ -18,10 +18,7 @@ p {
 h1, h2 {
   text-align: center;
   font-weight: 900;
-  margin-top: 50px auto;
-  margin-left: 50px auto;
-  margin-right: 50px auto;
-  margin-bottom: 0 auto;
+  margin-top: 10px auto;
 }
 
 h1 {
