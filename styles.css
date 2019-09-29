@@ -32,6 +32,7 @@ h2 {
 ul {
   display: table;
   margin: 0 auto;
+  margin-bottom: 50px;
 }
 
 li {
@@ -52,7 +53,8 @@ th {
 
 table {
   border: 1px solid black;
-  margin: 50px auto;
+  margin: 0 auto;
+  margin-bottom: 50px;
 }
 
 
