@@ -9,7 +9,7 @@ html, body {
   max-height: 30%;
 }
 
-p, a {
+p {
   text-align: center;
   display: block;
   font: 18px Arial, Helvetica, sans-serif;
